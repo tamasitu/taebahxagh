@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oghahvumu.iohksummit.io/sitemap.xml
